@@ -36,7 +36,7 @@ var fsb = {
   },
 
   /**
-   * Checks if Grøstl support is ready (WASM Module loaded)
+   * Checks if FSB support is ready (WASM Module loaded)
    * @return {Boolean}
    */
   isReady: function() {
